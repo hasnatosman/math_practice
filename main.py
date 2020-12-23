@@ -1,0 +1,1 @@
+print("Hello, I will do some of math exercise.")
